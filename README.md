@@ -4,7 +4,7 @@ Welcome to the comprehensive programming course! This guide will take you from a
 Whether you're completely new to programming or have some prior experience, this course will provide you with a solid foundation and equip you with essential programming skill.
 Let's get started!
 
-To dive right into programming, head over to [Chapter 1: Getting Started](./Chapter-1-Getting-Started/1-Hello-World.md].
+To dive right into programming, head over to [Chapter 1: Getting Started](./Chapter-1-Getting-Started/1-Hello-World.md).
 However, we recommend reading through this course overview to get a clear understanding of what you'll learn.
 
 ## Course Overview
