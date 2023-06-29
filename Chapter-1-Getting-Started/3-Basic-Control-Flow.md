@@ -178,7 +178,7 @@ We also covered loops, such as the `for` loop, to repeat code for a specified nu
 
 Additionally, we introduced the switch statement, which is useful for handling multiple conditions based on a single expression value.
 
-In the [next chapter](./Chapter-1-Getting-Started/Arrays-and-Objects.md), we will dive into arrays and objects, which are essential data structures for organizing and manipulating data.
+In the [next chapter](./4-Assignment-1-Adventure-Game.md), we will dive into arrays and objects, which are essential data structures for organizing and manipulating data.
 Understanding these data structures will expand your ability to work with more complex programs.
 
 Keep practicing with control flow structures, as they are fundamental concepts in programming.

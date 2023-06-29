@@ -80,5 +80,5 @@ Take some time to experiment and modify the code.
 Try printing different messages or adding more lines of code.
 Getting hands-on experience is crucial to your learning journey.
 
-In the [next chapter](./Variables-and-Functions.md), we will delve deeper into variables and functions.
+In the [next chapter](./2-Variables-and-Functions.md), we will delve deeper into variables and functions.
 Stay excited and keep coding!

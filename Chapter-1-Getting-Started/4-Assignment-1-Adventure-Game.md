@@ -152,7 +152,3 @@ You have built a text-based adventure game using JavaScript that takes user inpu
 Feel free to expand upon this game and add your own creative elements.
 Adventure games offer endless possibilities for storytelling and player interaction.
 Have fun exploring and developing your game further!
-
-In the [next chapter](./Chapter-2-Intermediate-Concepts/Arrays-and-Loops.md), we will explore intermediate concepts such as arrays and loops, which will enhance the functionality and interactivity of your programs.
-
-Keep coding and have a thrilling adventure!

@@ -91,5 +91,5 @@ In this chapter, we explored variables and functions, which are essential concep
 Variables allow us to store and manipulate data, while functions provide a way to organize and reuse code.
 You learned how to declare variables using `let` and `const`, and how to define and call functions in JavaScript.
 
-In the [next chapter](./Chapter-1-Getting-Started/Conditional-Statements-and-Loops.md), we will delve into conditional statements and loops, which will expand your ability to control the flow of your programs.
+In the [next chapter](./Chapter-1-Getting-Started/3-Basic-Control-Flow.md), we will delve into conditional statements and loops, which will expand your ability to control the flow of your programs.
 Keep practicing with variables and functions, as they are building blocks for more complex programming concepts.
